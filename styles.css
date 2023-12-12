@@ -1,3 +1,42 @@
 .text {
     text-align: center;
+    color: #000000;
+    font-family:Arial, Helvetica, sans-serif;
 }
+
+.links {
+    text-align: center;
+    color: green;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.images {
+    text-align: center;
+}
+
+
+.lists {
+    text-align: center;
+  }
+  
+  .lists ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .lists ul li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .lists ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .lists ol li {
+    margin: 0;
+    padding: 0;
+  }
